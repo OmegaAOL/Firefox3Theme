@@ -20,7 +20,7 @@ Make sure Title Bar, Menu Bar, and Bookmarks Toolbar are enabled in Customize To
 
 Install the Stylus add-on and import the .json file in the repository. Then go to YouTube and enable all the styles from Stylus.
 
-Install YouTube Redux and enable all these ![this](redux1.png) and ![this](redux2.png)
+Install YouTube Redux and enable all these![this](redux1.png) and ![this](redux2.png)
 
 Install Youtube - Right Side Description userscript from GreasyFork (google it) into Greasemonkey (an add-on for Firefox)
 
