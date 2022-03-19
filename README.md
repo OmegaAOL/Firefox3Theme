@@ -16,6 +16,15 @@ Make sure Title Bar, Menu Bar, and Bookmarks Toolbar are enabled in Customize To
 
 **YOU MUST HAVE THIS BASIC ADDONS.MOZILLA.ORG THEME INSTALLED: Firefox 3 Classic by cg-realms**
 
+# YouTube Theme
+
+Install the Stylus add-on and import the .json file in the repository. Then go to YouTube and enable all the styles from Stylus.
+
+Install YouTube Redux and enable ![this](redux1.png) and ![this](redux2.png)
+
+
+
+
 # Questions and Answers (Q&A)
 
 *How to make this work on the latest vērsion of Firefox?*
