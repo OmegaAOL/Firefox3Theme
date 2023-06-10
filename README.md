@@ -32,12 +32,16 @@ Install Youtube - Right Side Description userscript from GreasyFork (google it) 
 
 *But I don't want the Menu Bar/Bookmarks Toolbar!*
 Those are necessary prerequisites for this theme.
+
 *But Firefox 88 doesn't load websites nowadays!*
 In about:config, create a string titled 'general.useragent.override' and set its value to the newest Firefox useragent.
+
 *Why doesn't this work on Firefox 89+?*
 Firefox 89 completely changed the base UI. As a result, this theme is broken.
+
 *Why doesn't the YouTube theme work?*
 Things change over time. I will try to keep the Youtube theme updated.
+
 *Youtube Redux isn't working/is broken!*
 YouTube Redux does not get many updates nowadays. Things might be broken. I cannot control these as I do not develop the extension.
 
