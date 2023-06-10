@@ -1,10 +1,10 @@
-# Firefox3Theme
+# Firefox 3 Theme
 
 This is a theme for Firefox Quantum to look like Firefox 3.
 
-# Requirements (IMPORTANT)
+# Requirements
 
-**YOU MUST HAVE FIREFOX 57 to FIREFOX 88.0.1. WILL NOT WORK ON FIREFOX PROTON BROWSERS (v89 AND UP) OR FIREFOX AUSTRALIS BROWSERS (v56 OR LOWER)**
+**YOU MUST HAVE FIREFOX 57 to FIREFOX 88.0.1. WILL NOT WORK ON PROTON THEMED FIREFOX BROWSERS (v89 AND UP) OR LEGACY FIREFOX BROWSERS (v56 OR LOWER)**
 
 Make sure you have toolkit.legacyUserProfileCustomizations.stylesheets ENABLED IN about:config.
 
