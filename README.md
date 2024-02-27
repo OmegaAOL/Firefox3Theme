@@ -4,7 +4,7 @@ This is a theme for Firefox Quantum to look like Firefox 3.
 
 # Requirements
 
-**YOU MUST HAVE FIREFOX 57 to FIREFOX 88.0.1. WILL NOT WORK ON PROTON THEMED FIREFOX BROWSERS (v89 AND UP) OR LEGACY FIREFOX BROWSERS (v56 OR LOWER)**
+**YOU MUST HAVE FIREFOX 57 to FIREFOX 88.0.1. WILL NOT WORK ON PROTON-ERA "ROUNDED TABS" FIREFOX BROWSERS (v89 AND UP) OR NON-QUANTUM FIREFOX BROWSERS (v56 OR LOWER)**
 
 Make sure you have toolkit.legacyUserProfileCustomizations.stylesheets ENABLED IN about:config.
 
