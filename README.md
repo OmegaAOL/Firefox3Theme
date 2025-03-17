@@ -10,9 +10,13 @@ This theme is 100% fully compatible with Mypal Quantum 68. As a result, it can b
 Firefox versions that support this theme can run on:
 
 Windows 98: KernelEx, Mypal 68
+
 Windows 2000: Extended Kernel, Mypal 68
+
 Windows XP: Mypal 68 / OneCore API, Firefox 88.0.1
+
 Windows Vista: Mypal 68
+
 Windows 7 to 11: Firefox 88.0.1
 
 # Requirements
