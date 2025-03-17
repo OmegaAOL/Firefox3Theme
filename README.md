@@ -1,6 +1,8 @@
 # Firefox 3 Theme
 
-This is a theme for Firefox Quantum to look like Firefox 3.
+This is a theme for Firefox Quantum (57 to 89) to look like Firefox 3.
+
+This borrows from an old version of Aris-t2/CustomCSSForFX
 
 # Requirements
 
