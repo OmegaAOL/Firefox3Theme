@@ -6,9 +6,10 @@ Firefox 88.0.1 can be downloaded at https://ftp.mozilla.org/pub/firefox/releases
 
 This borrows from an old version of Aris-t2/CustomCSSForFX
 
-# Requirements, Windows
+# Requirements, Windows 98 to 11
 
-This theme is 100% fully compatible with Mypal Quantum 68. As a result, it can brag of being the only modern Firefox theme to run on Windows 98.
+This theme is 100% fully compatible with Mypal Quantum 68. As a result, it can brag of being the only modern Firefox theme to run on Windows 98 (not Windows 98SE - the original
+Windows 98!)
 Firefox versions that support this theme can run on:
 
 Windows 98: KernelEx, Mypal 68
