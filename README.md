@@ -1,6 +1,8 @@
 # Firefox 3 Theme
 
-This is a theme for Firefox Quantum PHOTON (57 to 89) to look like Firefox 3.
+This is a theme for Firefox Quantum PHOTON (57 to 88) to look like Firefox 3. 
+
+Firefox 88.0.1 can be downloaded at https://ftp.mozilla.org/pub/firefox/releases/88.0.1/
 
 This borrows from an old version of Aris-t2/CustomCSSForFX
 
@@ -18,6 +20,16 @@ Windows XP: Mypal 68 / OneCore API, Firefox 88.0.1
 Windows Vista: Mypal 68
 
 Windows 7 to 11: Firefox 88.0.1
+
+# Links for support on old versions of Windows
+
+Mypal 68: https://www.mypal-browser.org/
+
+KernelEx: https://github.com/metaxor/KernelEx
+
+Windows 2000 Extended Kernel: https://www.youtube.com/watch?v=OXlJukLvRGs
+
+OneCore API: https://github.com/shorthorn-project/One-Core-API-Binaries
 
 # Requirements
 
