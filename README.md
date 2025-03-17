@@ -4,6 +4,17 @@ This is a theme for Firefox Quantum PHOTON (57 to 89) to look like Firefox 3.
 
 This borrows from an old version of Aris-t2/CustomCSSForFX
 
+# Requirements, Windows
+
+This theme is 100% fully compatible with Mypal Quantum 68. As a result, it can brag of being the only modern Firefox theme to run on Windows 98.
+Firefox versions that support this theme can run on:
+
+Windows 98: KernelEx, Mypal 68
+Windows 2000: Extended Kernel, Mypal 68
+Windows XP: Mypal 68 / OneCore API, Firefox 88.0.1
+Windows Vista: Mypal 68
+Windows 7 to 11: Firefox 88.0.1
+
 # Requirements
 
 **YOU MUST HAVE FIREFOX 57 to FIREFOX 88.0.1. WILL NOT WORK ON PROTON-ERA "ROUNDED TABS" FIREFOX BROWSERS (v89 AND UP) OR NON-QUANTUM FIREFOX BROWSERS (v56 OR LOWER)**
