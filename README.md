@@ -22,6 +22,8 @@ Windows Vista: Mypal 68
 
 Windows 7 to 11: Firefox 88.0.1
 
+Fun fact: Windows 98 doesn't even natively support Firefox 3! The last build of Firefox for 98/98SE/ME was Firefox 2.0.0.20. As a result, you will need KernelEx to run Firefox 3 if you want to.
+
 # Links for support on old versions of Windows
 
 Mypal 68: https://www.mypal-browser.org/
